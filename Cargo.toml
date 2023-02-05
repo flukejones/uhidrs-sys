@@ -17,6 +17,6 @@ include = [
 
 [dependencies]
 [build-dependencies.bindgen]
-version = "0.54"
+version = "0.63"
 default-features = false
 #features = ["logging"]
